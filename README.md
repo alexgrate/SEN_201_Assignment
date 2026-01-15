@@ -2,7 +2,7 @@
 
 **Name:** Aigbodion Dominion Eromosele 
 **Matric Number:** 25/17970 
-**GitHub Repository:** [Your repo link will go here]
+**GitHub Repository:** https://github.com/alexgrate/SEN_201_Assignment
 
 ## Description
 This is a simple Python program that displays "Hello, World!" as part of the SEN 201 course assignment.
